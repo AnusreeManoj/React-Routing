@@ -1,0 +1,14 @@
+#homeid{
+    width: 900px;
+    height: 150px;
+    color:black;
+    margin-top:10px;
+    font-size: 20px;
+    margin-left:10px;
+    background-color: rgb(189, 133, 196);
+}
+
+b{
+    font-size: 30px;
+    /* padding-top: 200px; */
+}
